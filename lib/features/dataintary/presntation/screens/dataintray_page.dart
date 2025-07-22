@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:nis/features/dataintary/presntation/cubit/dataintary_cubit.dart';
 
 class DataintrayPage extends StatelessWidget {
